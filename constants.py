@@ -1,0 +1,10 @@
+# github hosting URL
+DASHBOARD_URL = 'https://organic-palm-tree-rwwvvq6vxpghx4p5-8000.app.github.dev/pet_adoption/landing_page/'
+
+SKIN_CURES = {
+    'Bacterial_dermatosis': 'Bacterial dermatosis in dogs is a skin condition caused by bacterial infections, often involving Staphylococcus species. It typically appears as red, inflamed skin, pustules, hair loss, and sometimes scabs or crusts. Common causes include allergies, parasites, hormonal imbalances, or wounds that allow bacteria to invade. Treatment usually involves antibiotics (oral or topical) prescribed by a veterinarian, along with medicated shampoos to soothe the skin and remove bacteria. Managing any underlying conditions is crucial to prevent recurrence and ensure full recovery.',
+    'Fungal_infections': 'Fungal infections in dogs are caused by fungi like Malassezia (yeast) or dermatophytes (ringworm). They often lead to symptoms such as itchy skin, redness, hair loss, flaky or greasy patches, and sometimes a bad odor. These infections can arise due to a weakened immune system, allergies, or excessive moisture on the skin. Treatment typically includes antifungal medications (oral or topical), medicated baths, and addressing any underlying issues to prevent future outbreaks. Early diagnosis and consistent care are key to a full recovery.',
+    'Healthy': 'The dog is perfectly healthy',
+    'Hypersensitivity_allergic_dermatosis': 'Hypersensitivity allergic dermatosis in dogs is a skin condition caused by an overreaction of the immune system to allergens like pollen, food, flea saliva, or dust mites. It commonly shows up as intense itching, redness, swelling, hair loss, and frequent licking or scratching. Treatment focuses on identifying and avoiding the allergen, using antihistamines, anti-itch medications, special diets, or allergy shots (immunotherapy). Managing the dog’s environment and regular vet check-ups are important to keep the condition under control.'
+
+}
